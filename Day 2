@@ -26,3 +26,4 @@ payment = final_bill / people
 final_amount = round(payment, 2)
 
 print(f"Each person should pay: ${final_amount}")
+
