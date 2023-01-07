@@ -6,4 +6,3 @@ city_name=input("What's the name of the city you grew up in? \n")
 pet_name=input("What's your pat's name?\n")
 #4. Combine the name of their city and pet and show them their band name.
 input("Your Band Name should be " + city_name +" " +  pet_name)
-kkgg
